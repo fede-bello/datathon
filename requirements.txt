@@ -2,3 +2,8 @@ numpy
 pandas
 scikit-learn
 matplotlib
+torch
+pytorch-tabnet
+boto3
+geopandas
+fiona

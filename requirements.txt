@@ -7,3 +7,4 @@ pytorch-tabnet
 boto3
 geopandas
 fiona
+typer

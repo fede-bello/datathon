@@ -6,6 +6,8 @@ Welcome to the Datathon repository by Data Driven Swifties!
 
 We are a team of undergraduate students participating in the United Nations Datathon. Our goal is to leverage data to address pressing global issues and contribute to the Sustainable Development Goals (SDGs).
 
+This project aims to explore the influence of social variables on salary levels in Uruguay, employing interpretable machine learning models trained on data from the Instituto Nacional de Estad ́ıstica (INE). This analysis is not solely an academic exercise but a strategic approach aimed at equipping policymakers with data-driven insights. Through the identification and understanding of key social variables. The goal is to pave the way for interventions that not only mitigate the symptoms of economic inequality but also target and ameliorate its root causes. Thereby, enhancing economic equity becomes not just an aspirational target but an achievable milestone through informed policy-making.
+
 ## Repository Structure
 
 The repository includes several folders and files. Here's a brief overview of the most important ones:

@@ -27,7 +27,7 @@ To use this repository, you will need to install the required dependencies liste
 pip install -r requirements.txt
 # If developing:
 pip install -r requirements-dev.txt
-
+```
 
 Then, you can run the main script using Python:
 
